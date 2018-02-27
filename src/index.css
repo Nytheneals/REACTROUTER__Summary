@@ -1,5 +1,23 @@
 body {
-  margin: 0;
+  width: 80%;
+  margin: 0 auto;
   padding: 0;
-  font-family: sans-serif;
+  font-family: Arciform sans;
+  font-size: 30px;
+  color: black;
+  background: orange;
+}
+
+hr {
+  color: black;
+  height: 10px;
+  background: black;
+  border: 2px dashed rgb(209, 160, 25);
+}
+
+._link {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  list-style: none;
+  text-decoration: none;
 }
